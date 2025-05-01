@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc2c2&height=240&text=Welcome%20to%20Jiwon's%20Github&animation=twinkling&fontColor=ff9999&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> I am... </h2>  < A backend developer who bridges deep learning and control technologies  ></A>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> I am... </h2>  A backend developer who bridges deep learning and control technologies </A>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">   </div> 
     </div>
     <div style="text-align: left;">
