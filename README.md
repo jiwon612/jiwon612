@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center">   <a href=https://silken-truck-e11.notion.site/Lee-Jiwon-1d5e3b1d7ff2806ba1e3caed8a1a7271?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://silken-truck-e11.notion.site/Lee-Jiwon-1d5e3b1d7ff2806ba1e3caed8a1a7271?pvs=4"> </a> 
+    <div align= "center">  <!-- <a href=https://silken-truck-e11.notion.site/Lee-Jiwon-1d5e3b1d7ff2806ba1e3caed8a1a7271?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://silken-truck-e11.notion.site/Lee-Jiwon-1d5e3b1d7ff2806ba1e3caed8a1a7271?pvs=4"> </a> -->
          <a href=mailto:jwlee02kr@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jwlee02kr@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
