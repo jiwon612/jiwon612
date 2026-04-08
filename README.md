@@ -41,18 +41,7 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-</div>
-﻿<div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎖️ Certification </h2>
 
-- **ADsP (데이터분석 준전문가)**  
-  한국데이터산업진흥원 · 2025.09
-- **ISTQB CTFL (ISTQB Certified Tester Foundation Level V.4)**  
-  International Software Testing Qualifications Board · 2026.01
-
-- **SQLD (SQL 개발자)**  
-  한국데이터산업진흥원 · 2026.03
-</div>
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Awards & Experiences </h2>
