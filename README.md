@@ -77,7 +77,7 @@
     <br>
     <div align="center">
 <a href="mailto:jwlee02kr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/jiwon-lee-139b7a359/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/jiwon-lee-139b7a359/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 <a href="https://www.notion.so/Lee-Jiwon-1d5e3b1d7ff2806ba1e3caed8a1a7271" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>
     </div>
 </div>
