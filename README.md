@@ -73,6 +73,17 @@
 <br>
 
 <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎤 Conference Presentation </h2> 
+
+- **The 16th International Conference on ICT Convergence (ICTC 2025), 한국통신학회**  
+  - AI-Driven Automatic Side Mirror Adjustment to Address Left-Side Blind Spots in Right Turns · 2025.10
+  - Scene Matching-Assisted Adaptive Control of Autonomous Vehicles in CARLA Simulator · 2025.10
+  
+</div>
+
+<br>
+
+<div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✉️ Contact me </h2> 
     <br>
     <div align="center">
