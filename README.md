@@ -1,43 +1,85 @@
 ## Hi there 👋
 
-<!--
-**jiwon612/jiwon612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align= "center">
+<div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc2c2&height=240&text=Welcome%20to%20Jiwon's%20Github&animation=twinkling&fontColor=ff9999&fontSize=50" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> I am... </h2>  A developer who bridges deep learning and control technologies </A>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">   </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-          <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-          <img src="https://img.shields.io/badge/Matlab-0076a8?style=for-the-badge&logo=Matlab&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center">  <!-- <a href=https://silken-truck-e11.notion.site/Lee-Jiwon-1d5e3b1d7ff2806ba1e3caed8a1a7271?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://silken-truck-e11.notion.site/Lee-Jiwon-1d5e3b1d7ff2806ba1e3caed8a1a7271?pvs=4"> </a> -->
-         <a href=mailto:jwlee02kr@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jwlee02kr@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    
+</div>
+
+<br>
+
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👤 I am... </h2> 
+    A developer interested in <b>Embedded Systems</b>, <b>Autonomous Driving</b>, <b>Deep Learning</b>, and <b>Reinforcement Learning</b>
+</div>
+
+<br>
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚡ Tech Stacks </h2> 
+
+#### 💻 Programming & DB
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+<br>
+
+#### 🧠 Data & ML Frameworks
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+<br>
+
+#### 🚀 Collaboration & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=MathWorks&logoColor=white)
+</div>
+
+<br>
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎖️ Certification </h2> 
+
+- **ADsP (데이터분석 준전문가)** 한국데이터산업진흥원 · 2025.09
+
+- **ISTQB CTFL (V.4)** International Software Testing Qualifications Board · 2026.01
+
+- **SQLD (SQL 개발자)** 한국데이터산업진흥원 · 2026.03
+</div>
+
+<br>
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Awards & Experiences </h2> 
+
+- **제3회 미래 자동차산업 아이디어 공모전** 장려상 수상 · 자동차부품산업진흥재단 · 2024.09
+
+- **제19회 전국 대학생 증권파생상품 경시대회** 입선 · 한국거래소 · 2023.02
+</div>
+
+<br>
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✉️ Contact me </h2> 
+
+    <a href="mailto:jwlee02kr@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/jiwon-lee-139b7a359/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white">
+    </a>
+    <a href="https://www.notion.so/Lee-Jiwon-1d5e3b1d7ff2806ba1e3caed8a1a7271" target="_blank">
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+    </a>
+</div>
