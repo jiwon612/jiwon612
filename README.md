@@ -73,8 +73,9 @@
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✉️ Contact me </h2> 
-
+    <div align="center">
 <a href="mailto:jwlee02kr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/jiwon-lee-139b7a359/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"></a>
 <a href="https://www.notion.so/Lee-Jiwon-1d5e3b1d7ff2806ba1e3caed8a1a7271" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>
+    </div>
 </div>
