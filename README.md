@@ -56,7 +56,7 @@
 - **전자정보대학 하계 전공연수 프로그램**  
   독일 Saarland University · 2023.07
 
-- **제19회 전국 대학생 증권파생상품 경시대회** - <[CNN과 POMDP 기반 강화 학습을 통한 기술적 분석의 가치 및 가능성 연구](https://github.com/jiwon612/DQN_based_BTC_Trading_Algorithm)>  
+- **제19회 전국 대학생 증권파생상품 경시대회** - <[합성 곱 신경망과 부분적 관측 MDP 기반 강화학습”을 통한 기술적 분석의 가치 및 가능성에 관한 연구](https://github.com/jiwon612/DQN_based_BTC_Trading_Algorithm)>  
   입선 · 한국거래소 · 2023.02  
 </div>
 
