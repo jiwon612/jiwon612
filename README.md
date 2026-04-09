@@ -49,13 +49,13 @@
 - **현대오토에버 모빌리티 SW 스쿨 스마트팩토리 과정**  
   한국전파진흥협회 · 2025.12 - Present
 
-- **제3회 미래 자동차산업 아이디어 공모전**  
+- [**제3회 미래 자동차산업 아이디어 공모전**](https://github.com/jiwon612/branchy_net_cnn_Automatic_leftturn_sidemirror)  
   장려상 · 자동차부품산업진흥재단 · 2024.09
 
 - **전자정보대학 하계 전공연수 프로그램**  
   독일 Saarland University · 2023.07
 
-- **제19회 전국 대학생 증권파생상품 경시대회**  
+- [**제19회 전국 대학생 증권파생상품 경시대회**](https://github.com/jiwon612/DQN_based_BTC_Trading_Algorithm)  
   입선 · 한국거래소 · 2023.02
 </div>
 
