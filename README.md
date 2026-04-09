@@ -49,14 +49,15 @@
 - **현대오토에버 모빌리티 SW 스쿨 스마트팩토리 과정**  
   한국전파진흥협회 · 2025.12 - Present
 
-- [**제3회 미래 자동차산업 아이디어 공모전**](https://github.com/jiwon612/branchy_net_cnn_Automatic_leftturn_sidemirror)  
-  장려상 · 자동차부품산업진흥재단 · 2024.09
+- **제3회 미래 자동차산업 아이디어 공모전** - <[BranchyNet & CNN 인공지능 신경망 기반의 “우회전 연동 자동 좌향 사이드 미러” 제어 시스템](https://github.com/jiwon612/branchy_net_cnn_Automatic_leftturn_sidemirror)>  
+  장려상 · 자동차부품산업진흥재단 · 2024.09  
+  
 
 - **전자정보대학 하계 전공연수 프로그램**  
   독일 Saarland University · 2023.07
 
-- [**제19회 전국 대학생 증권파생상품 경시대회**](https://github.com/jiwon612/DQN_based_BTC_Trading_Algorithm)  
-  입선 · 한국거래소 · 2023.02
+- **제19회 전국 대학생 증권파생상품 경시대회** - <[CNN과 POMDP 기반 강화 학습을 통한 기술적 분석의 가치 및 가능성 연구](https://github.com/jiwon612/DQN_based_BTC_Trading_Algorithm)>  
+  입선 · 한국거래소 · 2023.02  
 </div>
 
 <br>
