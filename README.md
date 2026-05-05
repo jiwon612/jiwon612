@@ -49,7 +49,7 @@
 - **현대오토에버 모빌리티 SW 스쿨 스마트팩토리 과정**  
   한국전파진흥협회 · 2025.12 - Present
   - [머신비전 기반 실시간 작업자 안전 모니터링 시스템](https://github.com/jiwon612/SF4-Machine-Vision-Project)
-  - [배터리 관리 시스템(BMS) 품질검사 대시보드](https://github.com/jiwon612/SF4-Machine-Vision-Project)
+  - [배터리 관리 시스템(BMS) 품질검사 대시보드](https://github.com/jiwon612/SF4-project)
  
 <br>
 
