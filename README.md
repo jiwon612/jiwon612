@@ -60,7 +60,7 @@
 <br>
 
 - **임베디드시스템 개발 경험**  
-  전공 프로젝트 · 경희대학교 · 2024 - 2025
+  경희대학교 전공 프로젝트 · 2024 - 2025
   - [FreeRTOS 기반 군사용 CCTV 시스템](https://github.com/jiwon612/Military-System)
   - [이미지 처리 기반 Line Tracing RC카 프로젝트](https://github.com/jiwon612/Line-Tracing-RC-car)
   
