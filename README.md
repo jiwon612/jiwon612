@@ -53,6 +53,12 @@
  
 <br>
 
+- **The 16th International Conference on ICT Convergence (ICTC 2025 국제 학술대회)**  
+  한국통신학회 · 2025.10  
+  - [안개 환경 자율주행: YOLOv5 + V2V 통신 기반 CARLA 시뮬레이션](https://github.com/jiwon612/v2v-fog-driving)
+ 
+<br>
+
 - **제3회 미래 자동차산업 아이디어 공모전**  
   장려상 · 자동차부품산업진흥재단 · 2024.09  
   - [BranchyNet & CNN 인공지능 신경망 기반의 “우회전 연동 자동 좌향 사이드 미러” 제어 시스템](https://github.com/jiwon612/branchy_net_cnn_Automatic_leftturn_sidemirror)
@@ -70,17 +76,6 @@
   입선 · 한국거래소 · 2023.02  
   - [합성 곱 신경망과 부분적 관측 MDP 기반 강화학습”을 통한 기술적 분석의 가치 및 가능성에 관한 연구](https://github.com/jiwon612/DQN_based_BTC_Trading_Algorithm)
  
-</div>
-
-<br>
-
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎤 Conference Presentation </h2> 
-
-- **The 16th International Conference on ICT Convergence (ICTC 2025), 한국통신학회**  
-  - AI-Driven Automatic Side Mirror Adjustment to Address Left-Side Blind Spots in Right Turns · 2025.10
-  - Scene Matching-Assisted Adaptive Control of Autonomous Vehicles in CARLA Simulator · 2025.10
-  
 </div>
 
 <br>
