@@ -48,18 +48,28 @@
 
 - **현대오토에버 모빌리티 SW 스쿨 스마트팩토리 과정**  
   한국전파진흥협회 · 2025.12 - Present
+  - [머신비전 기반 실시간 작업자 안전 모니터링 시스템](https://github.com/jiwon612/SF4-Machine-Vision-Project)
+  - [배터리 관리 시스템(BMS) 품질검사 대시보드](https://github.com/jiwon612/SF4-Machine-Vision-Project)
+ 
+<br>
 
 - **제3회 미래 자동차산업 아이디어 공모전**  
-  <[BranchyNet & CNN 인공지능 신경망 기반의 “우회전 연동 자동 좌향 사이드 미러” 제어 시스템](https://github.com/jiwon612/branchy_net_cnn_Automatic_leftturn_sidemirror)>  
   장려상 · 자동차부품산업진흥재단 · 2024.09  
-  
+  - [BranchyNet & CNN 인공지능 신경망 기반의 “우회전 연동 자동 좌향 사이드 미러” 제어 시스템](https://github.com/jiwon612/branchy_net_cnn_Automatic_leftturn_sidemirror)
+ 
+<br>
 
-- **전자정보대학 하계 전공연수 프로그램**  
-  독일 Saarland University · 2023.07
+- **임베디드시스템 개발 경험**  
+  전공 프로젝트 · 경희대학교 · 2024 - 2025
+  - [FreeRTOS 기반 군사용 CCTV 시스템](https://github.com/jiwon612/Military-System)
+  - [이미지 처리 기반 Line Tracing RC카 프로젝트](https://github.com/jiwon612/Line-Tracing-RC-car)
+  
+<br>
 
 - **제19회 전국 대학생 증권파생상품 경시대회**  
-  <[합성 곱 신경망과 부분적 관측 MDP 기반 강화학습”을 통한 기술적 분석의 가치 및 가능성에 관한 연구](https://github.com/jiwon612/DQN_based_BTC_Trading_Algorithm)>  
   입선 · 한국거래소 · 2023.02  
+  - [합성 곱 신경망과 부분적 관측 MDP 기반 강화학습”을 통한 기술적 분석의 가치 및 가능성에 관한 연구](https://github.com/jiwon612/DQN_based_BTC_Trading_Algorithm)
+ 
 </div>
 
 <br>
