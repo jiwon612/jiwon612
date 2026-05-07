@@ -54,7 +54,7 @@
   - **요약:** 산업현장의 안전 장비 미착용이나 갑작스러운 의식 소실 대응을 위해, 얼굴 인식·PPE 착용 감지·낙상 감지 3가지 모델을 통합한 실시간 작업자 안전 관제 CCTV 시스템 (Python · YOLOv8 · OpenCV · PyTorch)
 
   - **역할:**
-    - 얼굴 인식 모델 설계 및 고도화 — Dlib 기반 Face Recognition 라이브러리 활용, One-Shot Learning으로 1인당 100장 데이터셋 직접 수집·구축
+    - 얼굴 인식 모델 설계 및 고도화 담당 — Dlib 기반 Face Recognition 라이브러리 활용, One-Shot Learning으로 1인당 100장 데이터셋 직접 수집·구축
     - 얼굴 68개 랜드마크 기반 다각도 인식 구현
     - 3가지 모델(얼굴 인식 · YOLO 객체 탐지 · YOLO Pose 낙상 감지) 통합 — CUDA 활용으로 프레임 드롭 문제 해결
 
@@ -172,7 +172,7 @@
   - **요약:** YOLOv5 객체 탐지(PC) → UART → Zybo Z7 FPGA → SPI → STM32 FreeRTOS로 이어지는 멀티 디바이스 실시간 경보 시스템 (Python · YOLOv5 · FreeRTOS · STM32 · FPGA · UART · SPI)
 
   - **역할:**
-    - YOLOv5 커스텀 모델 학습 (enemy·force·animal·fence 4개 클래스, 직접 수집·라벨링)
+    - YOLOv5 커스텀 모델 학습 담당 (enemy·force·animal·fence 4개 클래스, 직접 수집·라벨링)
     - 탐지 결과를 16바이트 바이너리 포맷으로 변환하여 UART 전송하는 통신 파이프라인 구현
     - PC → FPGA → MCU 3단 계층 구조에서 각 인터페이스(UART·SPI) 간 데이터 무결성 검증
 
@@ -212,7 +212,7 @@
 
   - **역할:**
     - Binance API를 활용한 BTC 실시간 및 과거 가격 데이터 수집·전처리 파이프라인 구축
-    - POMDP 기반 강화학습 환경(env.py) 설계 — 상태 공간, 행동 공간(매수·매도·홀드), 보상 함수 정의
+    - POMDP 기반 강화학습 환경(env.py) 설계 — 상태 공간, 행동 공간(매수·매도·홀드), 보상 함수 중 **상태 공간** 정의 담당
     - CNN 입력을 위한 캔들스틱 차트 이미지 변환 및 시계열 정규화 처리
 
   - **성과:**
